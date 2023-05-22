@@ -1,7 +1,7 @@
 ## Greetings ;)
 
-This repository holds projects made by the Epsilon Server Network and members of the community.
-We thank all responsible on making it possible for us.
+**This repository holds projects made by the Epsilon Server Network and members of the community.
+We thank all responsible on making them possible.**
 
 https://linktr.ee/epsilonsn
 
